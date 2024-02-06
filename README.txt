@@ -1,3 +1,3 @@
-Project portfolio website that hightlights some of the projects I've worked on in data analysis. Web built by html5.
+Project portfolio website with some of the projects I've worked on as an upcoming data analyst. Web built by html5. Link https://clint-os.github.io/
 
 
